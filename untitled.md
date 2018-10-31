@@ -15,3 +15,5 @@ Remarque importante
 
 {% file src=".gitbook/assets/aql-atelier-n1.pdf" caption="AQL Atélier N1 " %}
 
+![Logo Attijariwafa Bank](.gitbook/assets/logo.png)
+
